@@ -42,7 +42,7 @@
         - 물리적 요소
         - 움직이는 요소
 
-### SEONGGYU96
+### 김성규 (SEONGGYU96)
 
 - Character
     - 애니메이션
