@@ -1,6 +1,6 @@
 # Unreal-CircusEscape
 
-[기존 계획](https://github.com/SEONGGYU96/Unreal-CircusEscape/blob/main/InitialPlan.md)
+[기존 계획](https://github.com/SEONGGYU96/Unreal-CircusEscape/blob/main/InitalPlan.md)
 
 ## 결과 개요
 - 테마 : 서커스장 탈출이었으나, 활용할 수 있는 에셋의 한계로 Low poly의 단순한 숲 테마로 제작하였습니다.
